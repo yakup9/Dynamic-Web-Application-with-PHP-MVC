@@ -1,7 +1,3 @@
-Here's a detailed README for your project:
-
----
-
 # **Dynamic Web Application with PHP MVC and Integrated Management Panel**
 
 ## **Project Overview**
@@ -106,7 +102,3 @@ If you have any questions or need further assistance, feel free to reach out:
 
 - **Email:** y3yakup@gmail.com
 - **GitHub:** [yakup9](https://github.com/yourusername)
-
----
-
-This README provides a comprehensive guide to your project, making it easy for others to understand and use.

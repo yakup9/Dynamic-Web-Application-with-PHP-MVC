@@ -10,7 +10,7 @@
   <meta name="author" content="<?php echo $settings['author'] ?>">
 
   <title><?php echo $settings['title'] ?></title>
-  <base href="">
+  <base href="url here">
   <link rel = "icon" href ="nedmin/dimg/settings/<?php echo $settings['icon'] ?>" type = "image/x-icon">
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

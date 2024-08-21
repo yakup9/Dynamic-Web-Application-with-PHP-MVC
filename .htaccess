@@ -1,0 +1,10 @@
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+
+RewriteRule ^(.*)$ $1.php
+
+#Slug yapısına göre çek
+RewriteRule ^bloglar/([0-9a-zA-Z-_]+) blog-detay.php?slug=$1 [L,QSA]
+RewriteRule ^kurumsal/([0-9a-zA-Z-_]+) about.php?slug=$1 [L,QSA]
